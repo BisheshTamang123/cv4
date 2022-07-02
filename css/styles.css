@@ -22,7 +22,7 @@ h2{
   font-family: 'Trispace', sans-serif;
 }
 h3{
-  color: #CDF0EA;
+  color: #F94C66;
    font-weight: normal;
   font-family: 'Trispace', sans-serif;
 
@@ -98,7 +98,9 @@ text-align: left;
   margin: auto;
 }
 hr{
- border: dotted #AEDBCE 6px;
+ border: dotted #94B49F 
+   
+   6px;
  border-bottom: none;
  width: 7%;
  margin: 100px  auto;
